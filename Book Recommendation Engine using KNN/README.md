@@ -57,6 +57,8 @@ The `get_recommends(book)` function leverages the pre-trained KNN model to provi
 ## Conclusion
 The KNN algorithm works very well as implemented and it is able to recommend books that are similar to the one you want. We ran multiple tests on the main model code in the Jupyter file. **GO SEE**.
 
+[Full Model Code (Click Here)](https://github.com/Nkululeko-VillI-Nhlapo/Machine-Learning-with-Python/blob/main/Book%20Recommendation%20Engine%20using%20KNN/book_recommendation_knn.ipynb)
+
 ## Getting Started
 
 ### Prerequisites

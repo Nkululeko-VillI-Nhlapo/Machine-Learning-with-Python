@@ -2,6 +2,7 @@
 ## Nhlapo Nkululeko
 <hr>
 [Full Model Code]()
+
 ## Overview
 This project focuses on using machine learning to enhance communication security by accurately classifying SMS messages as either legitimate ("ham") or unwanted ("spam"). Using the SMS Spam Collection dataset and advanced neural networks, I developed a robust solution achieving a high accuracy of 98.78% in identifying spam messages. Through meticulous data cleaning, feature engineering, and model training, the system effectively handles varying message lengths and vocabulary complexities.
 

@@ -17,8 +17,7 @@ This project focuses on using machine learning to enhance communication security
 - **Techniques:** Deep Neural Networks, Data Cleaning, Feature Engineering
 
 ## Screenshots
-![Test 1](C:\CompSci\Data_Science\Machine_Learning\Projects\Neural Network SMS Text Classifier\Tes1.png)
-![Test 2](C:\CompSci\Data_Science\Machine_Learning\Projects\Neural Network SMS Text Classifier\Tess2.png)
+Tes1 and Tess2, You can View them, they are in the folder.
 
 ## Conclusion
 This project exemplifies my expertise in machine learning, particularly in deploying neural networks for solving real-world communication security challenges. It underscores the effectiveness of these techniques in making communication safer and more efficient.

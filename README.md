@@ -3,6 +3,7 @@
 
 This repository contains several machine learning projects:
 
+
 1. **Book Recommendation System using K-Nearest Neighbors (KNN)**: Utilizes the Book-Crossings dataset to recommend books based on user ratings.
    
 2. **Cat and Dog Image Classifier**: Employs a convolutional neural network (CNN) to classify images of cats and dogs with high accuracy.

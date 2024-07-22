@@ -1,7 +1,7 @@
 # Neural Network SMS Text Classifier
 ## Nhlapo Nkululeko
 <hr>
-[Full Model Code (Click Here)]("https://colab.research.google.com/drive/1yPX2h5IpnSK8KtrRkav8_Y-AKJpeQGG_#scrollTo=ANZna5UVM3EL")
+[Full Model(https://github.com/Nkululeko-VillI-Nhlapo/Machine-Learning-with-Python/blob/main/Neural%20Network%20SMS%20Text%20Classifier/sms_text_classifier.ipynb )]
 
 ## Overview
 This project focuses on using machine learning to enhance communication security by accurately classifying SMS messages as either legitimate ("ham") or unwanted ("spam"). Using the SMS Spam Collection dataset and advanced neural networks, I developed a robust solution achieving a high accuracy of 98.78% in identifying spam messages. Through meticulous data cleaning, feature engineering, and model training, the system effectively handles varying message lengths and vocabulary complexities.

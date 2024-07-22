@@ -1,4 +1,5 @@
 # Machine Learning Projects
+<hr>
 
 This repository contains several machine learning projects:
 
